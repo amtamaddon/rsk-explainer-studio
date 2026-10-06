@@ -1,0 +1,23 @@
+# RSK Health explainer v2, style C (flat illustration + data cards). Final approved shot list (worked example).
+# Story: she runs a busy front desk; RSK does the finding, collecting and renegotiating; she sees the money posted.
+# kind: scene = illustrated still (Seedance animates it where motion: seedance) | card / diagram / end = drawn in code
+#       screen = RSK Health demo-client capture in a drawn browser frame
+# Style guide: A's line quality, C's layout; one character style for every person; whites and warm neutrals, lighter than A;
+# navy and orange only in UI and graphics, never in the set; props carry blank lines only; all readable text and numbers
+# drawn in code. Data card as approved: white card, navy "Example claim" pill, navy amounts, orange only for the gap.
+# RSK is identified by a small drawn "RSK team" lower-third label, not by branded clothing.
+- {id: s00, kind: ref, notes: "Character sheet: practice administrator (40s, shoulder-length brown hair, glasses, cardigan) busy / calm / relieved; RSK team member (30s, headset, plain shirt) reviewing / on a call / presenting; nurse in scrubs. Payer shown only as a logo-free envelope or phone line."}
+- {id: s01, vo: p01, kind: scene, motion: seedance, seconds: 6, test_clip: true, notes: "Wide: busy urgent care front desk, morning. She is checking in a patient while the phone rings; two patients waiting, nurse walking past an exam room door."}
+- {id: s02, vo: p01, kind: diagram, seconds: 7, notes: "835 payment rows flow into the practice's system; each gets a 'Paid' check."}
+- {id: s03, vo: p01, kind: diagram, seconds: 7.5, title: "Paid isn't always paid in full", notes: "One row slows and stays checked: it looks closed, so nobody looks again."}
+- {id: s04, vo: p02, kind: scene, motion: seedance, seconds: 4, test_clip: true, title: "1 · Find", notes: "Medium: RSK team member at a workstation reviewing a claim, focused. Lower-third: 'RSK team'."}
+- {id: s05, vo: p02, kind: card, seconds: 9, notes: "Hero data card: Contract rate $142.00, 835 payment $118.40, orange bracket '$23.60 underpaid'. Tags point to 'Contract clause' and 'Remittance line'."}
+- {id: s06, vo: p02, kind: screen, screen: variances.jpg, seconds: 4.4, notes: "RSK Health Variances screen from the demo client ('RSK Health Demo Provider'), drawn browser frame, slow push in. Demo amounts only; no client or patient details."}
+- {id: s07, vo: p03, kind: diagram, seconds: 6, title: "Small gaps add up", notes: "Many small example claim cards, each with an orange gap; the gaps lift off and stack into one orange bar. No dollar total."}
+- {id: s08, vo: p03, kind: diagram, seconds: 8.8, title: "2 · Collect", notes: "Small inset of the RSK team member on a call. Evidence package (contract, claim, 835) moves along Reconsideration, Appeal, Paid, with a deadline marker under each step."}
+- {id: s09, vo: p04, kind: diagram, seconds: 5.5, title: "3 · Renegotiate", notes: "The stack of variance cards slides onto 'Managed care contract · renewal'; one terms line highlights and updates."}
+- {id: s10, vo: p04, kind: scene, seconds: 5.6, notes: "Medium: RSK team member presenting the variance stack on a call / screen share to the payer (a logo-free payer window). The administrator is not in the scene."}
+- {id: s11, vo: p05, kind: scene, seconds: 5, notes: "Split frame, two vignettes in the same style: urgent care front desk and a behavioral health office. Still, slow drawn pan."}
+- {id: s12, vo: p05, kind: card, seconds: 6, notes: "Three icon tiles: 'No software to buy', 'We work from files you already have', 'Contingency fee, paid only from recoveries'."}
+- {id: s13, vo: p05, kind: scene, motion: seedance, seconds: 5.6, test_clip: true, notes: "Close: at the front desk she sees 'Posted to your account' on her screen (drawn in code over the monitor), then files the EOBs away. Calm, a little relieved."}
+- {id: s14, kind: end, seconds: 4, notes: "RSK logo, 'Let us run a look-back on your data.', rsk.com"}

@@ -1,0 +1,159 @@
+1
+00:00:00,000 --> 00:00:01,879
+Your team posts insurer payments
+
+2
+00:00:01,879 --> 00:00:04,059
+every day, and most of them match
+
+3
+00:00:04,059 --> 00:00:04,679
+the contract.
+
+4
+00:00:05,299 --> 00:00:07,519
+Some come in quietly short, and
+
+5
+00:00:07,519 --> 00:00:09,240
+because the claim shows as paid,
+
+6
+00:00:09,820 --> 00:00:11,400
+nobody has time to go back and
+
+7
+00:00:11,400 --> 00:00:12,580
+check it against the rate you
+
+8
+00:00:12,580 --> 00:00:13,199
+negotiated.
+
+9
+00:00:14,259 --> 00:00:16,059
+RSK Health starts by finding them.
+
+10
+00:00:16,519 --> 00:00:19,260
+Our platform reads your 835 files
+
+11
+00:00:19,260 --> 00:00:21,239
+and prices every claim line
+
+12
+00:00:21,239 --> 00:00:23,000
+against the payer contracts that
+
+13
+00:00:23,000 --> 00:00:25,320
+govern it, so each underpayment is
+
+14
+00:00:25,320 --> 00:00:27,719
+tied to a specific clause and a
+
+15
+00:00:27,719 --> 00:00:29,320
+specific line on the remittance.
+
+16
+00:00:30,120 --> 00:00:31,019
+Then we collect.
+
+17
+00:00:31,600 --> 00:00:33,520
+Our team takes each variance to
+
+18
+00:00:33,520 --> 00:00:35,240
+the payer with an evidence package
+
+19
+00:00:35,240 --> 00:00:37,299
+built to hold up, works through
+
+20
+00:00:37,299 --> 00:00:39,820
+reconsiderations and appeals, and
+
+21
+00:00:39,820 --> 00:00:41,679
+keeps every filing deadline in
+
+22
+00:00:41,679 --> 00:00:43,679
+view until the money is posted to
+
+23
+00:00:43,679 --> 00:00:44,219
+your account.
+
+24
+00:00:45,100 --> 00:00:47,380
+Finally, the same file that proved
+
+25
+00:00:47,380 --> 00:00:48,899
+the underpayments becomes your
+
+26
+00:00:48,899 --> 00:00:50,820
+leverage at renewal, and we help
+
+27
+00:00:50,820 --> 00:00:52,820
+you renegotiate the payer contract
+
+28
+00:00:52,820 --> 00:00:54,560
+so its terms work for you from
+
+29
+00:00:54,560 --> 00:00:54,939
+then on.
+
+30
+00:00:55,600 --> 00:00:57,119
+Whether you run urgent care
+
+31
+00:00:57,119 --> 00:00:59,039
+clinics or a behavioral health
+
+32
+00:00:59,039 --> 00:01:01,020
+group, there is no software to
+
+33
+00:01:01,020 --> 00:01:03,039
+buy, we work from the files you
+
+34
+00:01:03,039 --> 00:01:05,359
+already have, and our fee is a
+
+35
+00:01:05,359 --> 00:01:07,480
+contingency paid only from what we
+
+36
+00:01:07,480 --> 00:01:07,900
+recover.
+
+37
+00:01:08,500 --> 00:01:09,879
+Let us run a look-back on your
+
+38
+00:01:09,879 --> 00:01:10,159
+data.
+
+39
+00:01:10,659 --> 00:01:12,599
+If we find nothing, we'll tell you
+
+40
+00:01:12,599 --> 00:01:14,500
+so, and you won't owe us anything.

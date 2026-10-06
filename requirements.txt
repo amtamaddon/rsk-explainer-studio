@@ -1,0 +1,10 @@
+requests
+pyyaml
+python-dotenv
+opentimelineio
+faster-whisper
+jiwer
+manim
+yt-dlp
+google-genai
+edge-tts

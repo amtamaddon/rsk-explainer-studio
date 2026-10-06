@@ -1,0 +1,8 @@
+.env
+work/
+out/
+.claude-flow/
+scripts/.claude-flow/
+__pycache__/
+*.pyc
+media/

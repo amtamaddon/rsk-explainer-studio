@@ -1,0 +1,21 @@
+# Critique
+
+Result: FAIL
+
+## Measurements
+- Loudness -16.5 LUFS, true peak -1.9 dBTP
+- WER vs script: 1.4%
+
+## Failures
+- 74.7s: 3.6s of silence. Tighten the gap or add VO.
+- 2.5s shot s01: irrelevant imagery: the visual depicts front-desk patient check-in/co-pay collection rather than a back-office billing team posting and auditing insurer claim payments; floating pen artifact standing vertically above the clipboard without being held. Fix: Depict a medical billing specialist reviewing insurance remittance advice and payment posting data on a computer screen, and ensure props like pens are naturally held or resting flat.
+- 7.3s shot s02: Orphaned '835 remittance' pill tag floating in the upper-left corner without context or visual connection to the main card; Incomplete burned-in subtitle box at the bottom cutting off mid-sentence ('Some come in quietly short, and'). Fix: Remove the burned-in partial caption bar and add connecting visual elements (such as an arrow or flow indicator) showing the 835 remittance data feeding into the practice billing system card.
+- 16.4s shot s04: Left hand has warped anatomy with awkwardly shaped fingers resting unnaturally on the keyboard; Visual depicts a headset-wearing support/call agent rather than an automated platform reading 835 files and pricing claim lines. Fix: Correct the hand illustration and replace the generic call-center agent visual with an animated UI showing remittance files (835) being automatically matched against contract clauses.
+- 20.6s shot s06: captions over key content (subtitle box obstructs the Worklist section header and table rows); garbled text in form fields (e.g., 'Deadline, then amourt' typo/garble, truncated 'Types that open a cas'). Fix: Reposition the subtitle banner to a safe margin outside the software interface or at the bottom border without occluding UI elements, and fix truncated/garbled text within the mock UI input fields.
+- 26.4s shot s05: Malformed graphical element: an orphaned curly brace precedes '$23.60 underpaid' on a single line instead of spanning the two comparison rows above it.. Fix: Remove the stray opening brace or properly enlarge and position a vertical bracket embracing both 'Contract rate' and '835 payment' to visually indicate the calculated difference.
+- 32.8s shot s07: irrelevant imagery: graphic and title ('Small gaps add up') refer to an earlier concept rather than variance collection, evidence packages, and appeals; truncated caption text ending mid-sentence ('Our team takes each variance to'). Fix: Update the visual to illustrate the collection and appeal process (e.g., submitting evidence packages, tracking filing deadlines, and money posting) and complete the subtitle caption.
+- 38.4s shot s08: Severe compositional imbalance with completely empty dead space across the right half of the screen; Incomplete placeholder graphic element (floating blank circle beneath the folder). Fix: Balance the layout by displaying the full workflow steps (such as 'Appeals', deadlines, and account posting) across the right side of the screen to complete the graphic.
+- 43.3s shot s13: Missing computer peripherals: the character appears to be typing or using the computer, but there is no keyboard or mouse on the desk. Fix: Add an illustrated keyboard and mouse beneath the woman's hands on the desk surface.
+- 63.8s shot s12: Unbalanced composition with empty right frame; Missing visual element for fee contingency mentioned in active subtitle. Fix: Add the third card illustrating contingency fee to balance screen layout.
+- 71.9s shot s14: Bottom caption cuts off mid-sentence ('If we find nothing, we'll tell you' missing the rest of the spoken line); Logo frame border has misaligned and uneven stroke artifacts along the bottom edge. Fix: Complete the subtitle text to match the full narration ('If we find nothing, we'll tell you so, and you won't owe us anything.') and clean up the uneven border strokes on the RSK logo frame.
+- 76.9s shot s14b: Asymmetrical, misaligned border styling on the logo box; Visible compression artifacts around typography edges. Fix: Re-align logo bounding box borders and re-export graphic as a clean vector or high-res asset.

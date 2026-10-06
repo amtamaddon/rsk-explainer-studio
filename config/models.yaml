@@ -1,0 +1,18 @@
+# Verify IDs at https://openrouter.ai/models before first run; names change.
+openrouter:
+  base_url: https://openrouter.ai/api/v1
+  keyframe_image: google/gemini-3-pro-image   # replaced retired openai/gpt-2.5-image-sunburst
+  video_default: google/veo-3.1
+  video_motion: bytedance/seedance-2.5
+  vision_critic: google/gemini-3.8-flash
+tts:
+  provider: edge      # user prefers the Edge voice; gemini only if explicitly asked
+  model: gemini-3.8-flash-tts
+  voice: Charon        # calm lecturer register; audition others on first run
+  tempo: 0.88          # gemini voice reads ~177 wpm; 0.88 slows it to ~155 wpm lecture pace
+  fallback_voice: en-US-AndrewNeural   # RSK default Edge voice; override per run with TTS_VOICE
+music:
+  provider: none      # user rejected the ElevenLabs bed; was elevenlabs
+  model: music_v1
+asr:
+  model: small         # faster-whisper; use large-v3 on a GPU box
